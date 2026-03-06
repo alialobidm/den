@@ -82,7 +82,7 @@
     "globals": "^13.24.0",
     "json5": "^2.2.3",
     "madge": "^6.1.0",
-    "rollup": "^4.9.6",
+    "rollup": "^4.59.0",
     "rollup-plugin-cleanup": "^3.2.1",
     "tslib": "^2.7.0",
     "typescript": "^5.5.4",
