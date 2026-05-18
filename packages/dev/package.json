@@ -88,7 +88,7 @@
     "typescript": "^5.5.4",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^4.15.1",
+    "webpack-dev-server": "^5.2.4",
     "webpack-merge": "^5.10.0",
     "webpack-subresource-integrity": "^5.2.0-rc.1",
     "yargs": "^17.7.2"
